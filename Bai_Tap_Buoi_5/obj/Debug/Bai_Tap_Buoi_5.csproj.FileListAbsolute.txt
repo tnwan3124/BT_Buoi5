@@ -1,0 +1,10 @@
+C:\C#\Bai_Tap_Tren_Truong\Bai_Tap_Buoi_5\Bai_Tap_Buoi_5\bin\Debug\Bai_Tap_Buoi_5.exe.config
+C:\C#\Bai_Tap_Tren_Truong\Bai_Tap_Buoi_5\Bai_Tap_Buoi_5\bin\Debug\Bai_Tap_Buoi_5.exe
+C:\C#\Bai_Tap_Tren_Truong\Bai_Tap_Buoi_5\Bai_Tap_Buoi_5\bin\Debug\Bai_Tap_Buoi_5.pdb
+C:\C#\Bai_Tap_Tren_Truong\Bai_Tap_Buoi_5\Bai_Tap_Buoi_5\obj\Debug\Bai_Tap_Buoi_5.csproj.AssemblyReference.cache
+C:\C#\Bai_Tap_Tren_Truong\Bai_Tap_Buoi_5\Bai_Tap_Buoi_5\obj\Debug\Bai_Tap_Buoi_5.Form1.resources
+C:\C#\Bai_Tap_Tren_Truong\Bai_Tap_Buoi_5\Bai_Tap_Buoi_5\obj\Debug\Bai_Tap_Buoi_5.Properties.Resources.resources
+C:\C#\Bai_Tap_Tren_Truong\Bai_Tap_Buoi_5\Bai_Tap_Buoi_5\obj\Debug\Bai_Tap_Buoi_5.csproj.GenerateResource.cache
+C:\C#\Bai_Tap_Tren_Truong\Bai_Tap_Buoi_5\Bai_Tap_Buoi_5\obj\Debug\Bai_Tap_Buoi_5.csproj.CoreCompileInputs.cache
+C:\C#\Bai_Tap_Tren_Truong\Bai_Tap_Buoi_5\Bai_Tap_Buoi_5\obj\Debug\Bai_Tap_Buoi_5.exe
+C:\C#\Bai_Tap_Tren_Truong\Bai_Tap_Buoi_5\Bai_Tap_Buoi_5\obj\Debug\Bai_Tap_Buoi_5.pdb
